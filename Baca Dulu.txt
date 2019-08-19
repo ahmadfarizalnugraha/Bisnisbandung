@@ -1,0 +1,10 @@
+README
+
+
+Head over to https://biolinks.altumcode.io/docs 
+
+
+Setting Config: core/config/config.php
+Database : dump.sql
+
+Contoh tools: linkinprofile.com/bisnisbandung
